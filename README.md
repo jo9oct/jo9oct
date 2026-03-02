@@ -37,53 +37,17 @@ I am a Software Engineer specializing in **full-stack web and mobile development
 
 ---
 
-## 🧠 Core Expertise
-
-**Frontend:** React.js, TypeScript, Next.js, Angular, Vue, Modern JavaScript (ES6+)  
-**Backend:** Node.js, Express.js, REST APIs, ASP.NET Core, Authentication & Authorization  
-**Mobile:** React Native, Expo, Flutter  
-**Database:** MySQL, MongoDB, Oracle, PostgreSQL  
-**UI/UX:** Figma, Advanced Prototyping, User Flow Design, Responsive UI  
+- 👨‍💻 Discover my projects, expertise, and professional work at [https://jo-portfolio.onrender.com/](https://jo-portfolio.onrender.com/)
+- 🔭 **I’m currently working on building scalable full-stack applications, modern cross-platform mobile apps, and my personal portfolio         platform.**
+- ⚡ Fun fact **I enjoy turning complex system architecture into clean, scalable solutions — and I genuinely have fun optimizing APIs and improving performance.**
 
 ---
 
-## 🔥 Featured Projects
-**Full-Stack Web Management System**  
-- Secure REST APIs with Node.js & Express  
-- Responsive frontend with React  
-- Role-based authentication & performance optimization  
-
-**Cross-Platform Mobile App**  
-- React Native & Expo  
-- API integration & intuitive UI  
-- Simplified navigation reducing user friction  
-
-**Personal Portfolio Platform**  
-- Modern React architecture  
-- Production-ready deployment  
-- Optimized performance & SEO  
-
----
-
-## 📈 Professional Experience
-**Web Developer Intern — Emare ICT Hub** *(June 2025 – August 2025)*  
-- Developed production-level web applications  
-- Collaborated with senior engineers  
-- Optimized UI and backend configuration  
-- Applied scalable system design best practices  
-
-**Key Achievements:**  
-- Delivered multiple freelance full-stack projects  
-- Improved database query performance by 30%  
-- Built responsive apps with 95%+ mobile compatibility  
-- Reduced API response time through backend optimization  
-
----
-
-## 🏆 Certifications
-- UX/UI Design – Udemy  
-- Frontend Engineering (ReactJS) – Udemy  
-- Backend Engineering (NodeJS & ExpressJS) – Udemy  
+## 🎯 Career Direction
+- Remote Software Engineering Roles  
+- Cloud & Distributed Systems  
+- Scalable Full-Stack Architecture  
+- Advanced System Design
 
 ---
 
