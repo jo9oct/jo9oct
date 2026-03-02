@@ -55,7 +55,7 @@ I am a Software Engineer specializing in **full-stack web and mobile development
 <p align="left">
 <a href="https://www.linkedin.com/in/jo9oct/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jo9oct" height="30" width="40" /></a>
 <a href="https://instagram.com/jo9oct" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jo9oct" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/coderjo21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coderjo21" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@coderjo21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coderjo21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
