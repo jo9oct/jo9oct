@@ -20,25 +20,72 @@
   </a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jo9oct" alt="jo9oct" /></a> </p>
+<!-- START HERO SECTION -->
+<p align="left">
+  <img src="Coder.gif" width="200" align="right" />
+</p>
 
-- 🔭 I’m currently working on **I’m currently working on building scalable full-stack applications, modern cross-platform mobile apps, and my personal portfolio platform.**
+## 🚀 About Me
+I am a Software Engineer specializing in **full-stack web and mobile development**, building scalable backend systems, responsive frontends, and cross-platform mobile apps.  
+**Open to Remote International Opportunities.**
 
-- 🌱 I’m currently learning **Advanced React, TypeScript, Next.js, Zustand, backend optimization, database performance, cross-platform mobile apps, UI/UX design, and cloud systems.**
+**Focus Areas:**
+- Clean Architecture & Scalable System Design  
+- API Design & Performance Optimization  
+- UI/UX Implementation  
+<!-- END HERO SECTION -->
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on open-source full-stack projects, cross-platform mobile apps, and innovative software solutions.**
+---
 
-- 🤝 I’m looking for help with **I’m looking for help with advanced cloud architectures, scalable backend optimization, and UI/UX improvements for web and mobile projects.**
+## 🧠 Core Expertise
 
-- 👨‍💻 All of my projects are available at [https://jo-portfolio.onrender.com/](https://jo-portfolio.onrender.com/)
+**Frontend:** React.js, TypeScript, Next.js, Angular, Vue, Modern JavaScript (ES6+)  
+**Backend:** Node.js, Express.js, REST APIs, ASP.NET Core, Authentication & Authorization  
+**Mobile:** React Native, Expo, Flutter  
+**Database:** MySQL, MongoDB, Oracle, PostgreSQL  
+**UI/UX:** Figma, Advanced Prototyping, User Flow Design, Responsive UI  
 
-- 📝 I regularly write articles on [https://medium.com/@jops7326/day-1-the-osi-model-️-dns-and-networking-protocols-d42aa1b9b216](https://medium.com/@jops7326/day-1-the-osi-model-️-dns-and-networking-protocols-d42aa1b9b216)
+---
 
-- 💬 Ask me about **Full-stack development, React & Node.js, mobile app development, API design, database optimization, and scalable system architecture.**
+## 🔥 Featured Projects
+**Full-Stack Web Management System**  
+- Secure REST APIs with Node.js & Express  
+- Responsive frontend with React  
+- Role-based authentication & performance optimization  
 
-- 📫 How to reach me **Portfolio: jo-portfolio.onrender.com LinkedIn: Yohannis Hailye Email: yohannishailye@gmail.com**
+**Cross-Platform Mobile App**  
+- React Native & Expo  
+- API integration & intuitive UI  
+- Simplified navigation reducing user friction  
 
-- ⚡ Fun fact **I enjoy turning complex system architecture into clean, scalable solutions — and I genuinely have fun optimizing APIs and improving performance.**
+**Personal Portfolio Platform**  
+- Modern React architecture  
+- Production-ready deployment  
+- Optimized performance & SEO  
+
+---
+
+## 📈 Professional Experience
+**Web Developer Intern — Emare ICT Hub** *(June 2025 – August 2025)*  
+- Developed production-level web applications  
+- Collaborated with senior engineers  
+- Optimized UI and backend configuration  
+- Applied scalable system design best practices  
+
+**Key Achievements:**  
+- Delivered multiple freelance full-stack projects  
+- Improved database query performance by 30%  
+- Built responsive apps with 95%+ mobile compatibility  
+- Reduced API response time through backend optimization  
+
+---
+
+## 🏆 Certifications
+- UX/UI Design – Udemy  
+- Frontend Engineering (ReactJS) – Udemy  
+- Backend Engineering (NodeJS & ExpressJS) – Udemy  
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
